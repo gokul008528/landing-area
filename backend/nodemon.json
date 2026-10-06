@@ -1,0 +1,21 @@
+{
+  "watch": [
+    "app.js",
+    "config",
+    "controllers",
+    "db",
+    "middlewares",
+    "routes",
+    "scripts",
+    "services",
+    "utils"
+  ],
+  "ext": "js,json",
+  "ignore": [
+    "tmp/**",
+    "uploads/**",
+    "certificates/**",
+    "node_modules/**",
+    "*.log"
+  ]
+}
